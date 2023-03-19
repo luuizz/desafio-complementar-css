@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: azure;
+}
+
+.container {
+    padding: 25px 0;
+}
+
+.box1, .box2, .box3, .box4, .box5 {
+    margin-top: 20px;
+    height: 100px;
+    width: 100px;
+}
+
+.box1 {
+    background-color: #FF07AB;
+    transform: translate(20px, 30px);
+}
+
+
+.box2 {
+    background-color: #E7443A;
+    transform: rotate(45deg);
+}
+
+
+.box3 {
+    background-color: #0F0D74;
+    transform: rotateX(135deg);
+}
+
+
+.box4 {
+    background-color: #CD3520;
+    transform: rotateY(30deg);
+}
+
+.box5 {
+    background-color: #07FFA6;
+    transform: rotateZ(68deg);
+}

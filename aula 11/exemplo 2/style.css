@@ -1,0 +1,20 @@
+.container .listaFrutas {
+    font-size: 21px;
+    color: blueviolet;
+}
+
+.container .listaFrutas li:first-child {
+    color: red;
+}
+
+.container .listaFrutas li:nth-child(4) {
+    color: orange;
+}
+
+.container .listaFrutas li:last-child {
+    color: aquamarine;
+}
+
+.container .listaFrutas li:first-of-type {
+    font-size: 32px;
+}

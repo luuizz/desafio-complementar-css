@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Saira', sans-serif;
+}
+
+.desafio1 {
+    color: orange;
+    background-color: green;
+}
+
+#lista1 {
+    color: blue;
+    background-color: black;
+}
+
+#lista2 {
+    color: rgb(22, 102, 188);
+    list-style: none;
+    background-color: blueviolet;
+}
+
+p {
+    color: red;
+}
+
+p {
+    color: green;
+}

@@ -1,0 +1,58 @@
+.container .container__title {
+    color: #931f56;
+    transition: 0.5s;
+    font-size: 60px;
+}
+
+.container .container__title:hover {
+    color: blue;
+}
+
+.active .active__link:active{
+    color: #12d7d3;
+    font-size: 55px;
+}
+
+.active .active__link:visited {
+    color: #931d22;
+}
+
+.formulario .formulario__nome:focus {
+    padding: 30px;
+    color: aquamarine;
+}
+
+.btn-primary {
+    padding: 24px 32px;
+    background-color: #12d7d3;
+    font-size: 16px;
+    color: black;
+    text-align: center;
+}
+
+.btn-primary:hover {
+    background-color: #00aab0;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.lista .lista-frutas li:first-child {
+    color: #931f56;
+}
+
+.lista .lista-frutas li:last-child {
+    color: blueviolet;
+}
+
+.lista .lista-frutas li:nth-child(2) {
+    color: orange;
+}
+
+.lista .lista-frutas li:nth-child(3) {
+    text-decoration: underline;
+    acc
+}

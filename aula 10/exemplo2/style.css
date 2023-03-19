@@ -1,0 +1,10 @@
+.conteudo {
+    width: 150px;
+    height: 165px;
+    border: 2px dashed black;
+    margin: 5px 8px;
+    padding: 6px 9px;
+    overflow-y: hidden;
+    overflow-x: visible;
+}
+
